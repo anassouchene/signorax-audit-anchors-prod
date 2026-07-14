@@ -1,0 +1,15 @@
+{
+  "SchemaVersion": "1",
+  "Application": "SignoraX",
+  "Environment": "production",
+  "ChainId": "6ce26122-0c9d-43d6-b58b-acc511b95c2b",
+  "SequenceNumber": 28,
+  "HeadEventHash": "1daf1bbfef82cec605ea2ffa30221356a960f02bdd1f585a5e223004063759a8",
+  "PreviousAnchorHash": "c47770a1e2a11a16b08e55062d82ec8d41ed180a6ed9f64f2840683c6571f103",
+  "CreatedAtUtc": "2026-07-14T15:08:31.9236032+00:00",
+  "HashAlgorithm": "SHA-256",
+  "MacAlgorithm": "HMAC-SHA256",
+  "KeyId": "k1",
+  "AnchorPayloadHash": "10e2c004d168fc2fae7d0ea70e0a48e4a7c69ab71a384df20338c21d6c21a131",
+  "AnchorMac": "452959ac8b6d7aa206bdac8375eeee710a1583bdaf15cb18db4726a1ebfaa77a"
+}
